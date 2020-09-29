@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">LivingPacketsAssignment</string>
+    <string name="app_name">Gif</string>
+
+    <string name="random_gif">Random selected GIF:</string>
 </resources>
